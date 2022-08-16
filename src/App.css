@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: brown;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+
+
+div{
+  padding: 10px;
+  text-align: center;
+}
+select{
+  padding: 50px;
+  text-align: center;
+}
